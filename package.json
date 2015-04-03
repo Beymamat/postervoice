@@ -1,0 +1,23 @@
+{
+  "name": "postervoice",
+  "version": "0.0.1",
+  "description": "quick posters for social media",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nilaXa/postervoice.git"
+  },
+  "keywords": [
+    "posters",
+    "social",
+    "media"
+  ],
+  "author": "Nilaksha Rathnayake",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "bugs": {
+    "url": "https://github.com/nilaXa/postervoice/issues"
+  }
+}
